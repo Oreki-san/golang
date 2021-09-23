@@ -1,2 +1,2 @@
 # golang
-whatsapp bot with made of Google language
+whatsapp bot made with Google language
