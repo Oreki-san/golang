@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://imgur.com/t/anime wallpaper/tdUAPmq"
-
+<img src="https://imgur.com/t/anime wallpaper/tdUAPmq.png"
+alt="Golang" border="0">
 
 
 # go-whatsapp
