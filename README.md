@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/t/anime wallpaper/tdUAPmq.png"
+<img src="https://user-images.githubusercontent.com/77143046/134824451-1ca04b2b-7855-4908-a370-1d9ff9b0c450.gif"
 alt="Golang" border="0">
 
 
